@@ -64,10 +64,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    indexing: true
 
 # 6. Jekyll collections settings
 defaults:
@@ -95,13 +92,14 @@ lang: en-US # Set the site language
 title: "Impex Solution" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "We are India's leading manufacturer and exporter of finished textile products. We offer textiles in different colors, shapes and sizes." # Site description and default description, also used in jekyll-seo-tag
-url: "https://markright-products.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://www.impexsolution.in" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: ""
 
 # Contact details
 bharat: "Bharat Parekh"
-email: "bharat@impexsolution.net"
+email: "info@impexsolution.net"
+tel: "+91-22-35572782"
 cell: "+91-9820034262, +91-8779967110"
 address: "D-Wing, 405, Neelkanth Business Park, Kirol Road, Near Vidyavihar Station Road, Vidyavihar West, Mumbai - 400086"
 gstin: "27AABPP8518M1Z7"
@@ -141,16 +139,18 @@ navigation_header:
   
 navigation_footer:
 - title: Managed by Impex Solution
-  url: https://www.impexsolution.in/
+  url: https://www.impexsolution.in
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  #Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/impex-solution-0b321037/
-  #GitHub: https://github.com/daviddarnes
-  link: https://www.impexsolution.in/
+  LinkedIn: https://www.linkedin.com/in/impex-solution-0b321037
+  link: https://www.impexsolution.in
   RSS: /feed.xml
+  Facebook: https://www.linkedin.com/in/impex-solution-0b321037
+  #Twitter: https://twitter.com/DavidDarnes
+  #GitHub: https://github.com/daviddarnes
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
-  facebook: "#3B5998"
+  Facebook: "#3B5998"
   Email: true
+  Whatsapp: "#128C7E"
