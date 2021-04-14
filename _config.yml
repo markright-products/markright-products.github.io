@@ -97,7 +97,7 @@ baseurl: ""
 # repo: ""
 
 # Contact details
-bharat: "Bharat Parekh"
+name: "Bharat Parekh"
 email: "info@impexsolution.net"
 tel: "+91-22-35572782"
 cell: "+91-9820034262, +91-8779967110"
@@ -138,8 +138,8 @@ navigation_header:
   url: /contact/
   
 navigation_footer:
-- title: Managed by Impex Solution
-  url: https://www.impexsolution.in
+- title: Adopted Alembic Theme
+  url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/impex-solution-0b321037
