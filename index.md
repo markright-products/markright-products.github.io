@@ -1,6 +1,7 @@
 ---
-title: Impex Solution
-feature_image: "/assets/banner/homepage-min.png"
+feature_image: "/assets/banner/AdobeStock_285265213.webp"
+feature_text: |
+    # Impex Solution
 excerpt: "We are India's leading manufacturer and exporter of finished textile products. We offer textiles in different colors, shapes and sizes."
 ---
 
