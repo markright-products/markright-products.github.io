@@ -7,8 +7,6 @@ indexing: true
 
 Readymade garments are finished textile products of the clothing industry. They can be tailored according to measurements.
 
-\#ethnicindia #shadesofbeauty #staystylish #staycolourful #classyaattire #faishonofindia #shadesofindia #luxuryclothing #anarkali #dresses #wedding #instafashion #weddingdress #fashionblogger #shopping #arts #onlineshop
-
 <!-- more -->
 
 We provide the following textile products:
@@ -28,3 +26,5 @@ We provide the following textile products:
 {% include figure.html image="/assets/img/textiles/readymade-garments-ladies-tops-2.png" alt="Women's tops" %}
 
 {% include figure.html image="/assets/img/textiles/readymade-garments-ladies-tops-3.png" alt="Women's wear" %}
+
+\#ethnicindia #shadesofbeauty #staystylish #staycolourful #classyaattire #faishonofindia #shadesofindia #luxuryclothing #anarkali #dresses #wedding #instafashion #weddingdress #fashionblogger #shopping #arts #onlineshop

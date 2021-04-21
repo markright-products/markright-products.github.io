@@ -44,7 +44,7 @@ author: Impex Solution # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Impex Solution # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.linkedin.com/in/impex-solution-0b321037/
+    - https://www.linkedin.com/company/impexsolution
 #markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 highlighter: rouge
 error_mode: strict
@@ -91,7 +91,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Impex Solution" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "We are India's leading manufacturer and exporter of finished textile products. We offer textiles in different colors, shapes and sizes." # Site description and default description, also used in jekyll-seo-tag
+description: "Finished Textiles Manufacturer" # Site description and default description, also used in jekyll-seo-tag
 url: "https://www.impexsolution.net" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 # repo: ""
@@ -101,7 +101,8 @@ name: "Bharat Parekh"
 email: "info@impexsolution.net"
 tel: "+91-22-35572782"
 cell: "+91-9820034262, +91-8779967110"
-address: "D-Wing, 405, Neelkanth Business Park, Kirol Road, Near Vidyavihar Station Road, Vidyavihar West, Mumbai - 400086"
+chat: "919820034262"
+address: "D-wing, 4th floor, D-405, Neelkanth Business Park, Kirol Village, Nathani Road, Vidyavihar West, Mumbai - 400086"
 gstin: "27AABPP8518M1Z7"
 
 # disqus: "" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -142,10 +143,10 @@ navigation_footer:
   url: https://alembic.darn.es/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/impex-solution-0b321037
+  LinkedIn: https://www.linkedin.com/company/impexsolution
   link: https://www.impexsolution.net
   RSS: /feed.xml
-  Facebook: https://www.linkedin.com/in/impex-solution-0b321037
+  Facebook: https://www.linkedin.com/company/impexsolution
   #Twitter: https://twitter.com/DavidDarnes
   #GitHub: https://github.com/daviddarnes
 
@@ -154,3 +155,7 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   Facebook: "#3B5998"
   Email: true
   Whatsapp: "#128C7E"
+
+# site verification
+webmaster_verifications:
+  google: 0GUGMeRqr-UzncNYJK9648_0gKdSge5kTQdsuBJ3coI
