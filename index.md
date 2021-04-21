@@ -2,7 +2,7 @@
 feature_image: "/assets/banner/AdobeStock_285265213.webp"
 feature_text: |
     # Impex Solution
-excerpt: "Textile Manufacturer. We offer textiles in different colors, shapes and sizes."
+excerpt: "We are India's leading manufacturer and exporter of finished textile products. We offer textiles in different colors, shapes and sizes."
 ---
 
 We are India's leading manufacturer and exporter of finished textile products. We offer a wide range of textile products. 
