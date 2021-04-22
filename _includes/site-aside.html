@@ -5,12 +5,23 @@
       {% include post-related.html %}
     </section>
 
-  {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
+  {% elsif page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h3>About this site</h3>
       <p>{{ site.description }}</p>
       {% include nav-social.html %}
     </section>
+
+  {% elsif page.layout == "page" %}
+  <section class="section  section--description">
+    <h3>Contact Us</h3>
+    <p><h6>{{ site.name }}</h6></p>
+    <a class="logo" href="{{ site.url }}/contact">
+      <img src="/assets/img/about/Quality-Guaranteed.webp" align="center" alt="{{ site.name }}" />
+    </a>
+    <br/>
+    {% include nav-social.html %}
+  </section>
 
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
