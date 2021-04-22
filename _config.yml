@@ -131,6 +131,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:  
 - title: Home
   url: /
+- title: About
+  url: /about/
 - title: Shop
   url: /shop/
 - title: Search
@@ -147,6 +149,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   link: https://www.impexsolution.net
   RSS: /feed.xml
   Facebook: https://www.linkedin.com/company/impexsolution
+  Whatsapp: "https://wa.me/919820034262?text=Hello!%20I%20visited%20your%20website%20and%20interested%20in%20your%20products."
   #Twitter: https://twitter.com/DavidDarnes
   #GitHub: https://github.com/daviddarnes
 
